@@ -79,8 +79,11 @@ https://gangz-gamedev.itch.io/asteroid-smashers
 - Credits of asset pack: https://free-game-assets.itch.io/free-space-shooter-game-user-interface
 
 ## Features (Final Version)
-
-
+- Smooth ship movement and rotation
+- Ramp up asteroid speed and spawn time every 30 seconds
+- Triple-shot powerup spawn, can be collected and stored, used whenever the player feels like.
+- Ship, asteroids, and powerups screen wrap.
+- Health system on ship, big asteroids deal 50 damage while small ones do 25.
 ---
 ## Credits
 

@@ -7,7 +7,7 @@ This is a space-themed shooter game project, built as part of my coursework for 
 [C# Programming for Unity Game Development Specialization — Coursera](https://www.coursera.org/specializations/programming-unity-game-development)
 
 ## Itch.io Link
-(itch.io link)
+https://gangz-gamedev.itch.io/asteroid-smashers
 
 ## Table of Contents
 

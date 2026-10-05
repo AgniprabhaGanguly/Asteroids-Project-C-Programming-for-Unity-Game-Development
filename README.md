@@ -9,6 +9,9 @@ This is a space-themed shooter game project, built as part of my coursework for 
 ## Itch.io Link
 https://gangz-gamedev.itch.io/asteroid-smashers
 
+## Game Design Document
+https://docs.google.com/document/d/149mHOVh1NhzrfN0tE3wfLNh0X6zyvF-IAMtyv8YpEnw/edit?usp=sharing
+
 ## Table of Contents
 
 - Project Iterations
